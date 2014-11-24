@@ -37,7 +37,7 @@ for a in $archs; do
       sys_root=${SDK_ROOT}
       host=arm-apple-darwin9
       ;;
-    i386)
+    i386|x86_64)
       sys_root=${SDK_SML_ROOT}
       host=${a}-apple-darwin9
       ;;
