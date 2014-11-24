@@ -1,8 +1,7 @@
 #!/bin/sh
 
-# http://www.videolan.org/developers/x264.html
-# ftp.videolan.org/pub/videolan/x264/snapshots/
-# http://ffmpegmac.net/HowTo/
+# http://www.linuxfromscratch.org/blfs/view/svn/multimedia/faac.html
+# ftp://mirror.ovh.net/gentoo-distfiles/distfiles/
 
 major=1
 minor=28
