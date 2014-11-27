@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.author              = { "Echo Liao" => "echoliao8@gmail.com" }
   s.requires_arc        = false
   s.platform            = :ios
-  s.source              = { :http => "https://github.com/EchoLiao/faac-prebuild/raw/master/faac-iOS-1.28.1.tgz" }
+  s.source              = { :http => "http://github.com/EchoLiao/faac-prebuild/raw/master/faac-iOS-1.28.1.tgz" }
   s.preserve_paths      = "include/**/*.h"
   s.vendored_libraries  = 'lib/*.a'
   s.libraries           = 'faac'
