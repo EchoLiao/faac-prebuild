@@ -7,7 +7,7 @@ major=1
 minor=28
 micro=1
 
-SDK_VERS=8.1
+SDK_VERS=
 XCD_ROOT="/Applications/Xcode.app/Contents/Developer"
 TOL_ROOT="${XCD_ROOT}/Toolchains/XcodeDefault.xctoolchain"
 SDK_ROOT="${XCD_ROOT}/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS${SDK_VERS}.sdk"
